@@ -5,12 +5,67 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>How was my last week</title>
+      <link>https://example.com/post/1-post/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/1-post/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Here&amp;rsquo;s what I did last week&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;I passed 2 labs: programming and operating systems&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wrote a math analysis and English test&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Worked about 30 hours&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Went to training 2 times&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Started reading a new book about finance&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version control system. Git.</title>
+      <link>https://example.com/post/version-control-system/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/version-control-system/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;about-the-version-control-system&#34;&gt;About the version control system&lt;/h2&gt;
+&lt;p&gt;What is a &amp;ldquo;version control system&amp;rdquo; and why is it important? A version control system is a system that writes changes to a file or set of files over time and allows you to return to a specific version later. For file version control, this book will use the source code of the software as an example, although in fact you can use version control for almost any type of file.&lt;/p&gt;
+&lt;p&gt;If you are a graphic or web designer and want to save each version of the image or layout (most likely, you will want), the version control system (hereinafter referred to as SCR) is just what you need. It allows you to return files to the state they were in before the changes, return the project to its original state, see the changes, see who last changed something and caused the problem, who set the task and when, and much more. Using SCR also means in general that if you break something or lose files, you can easily fix it. On top of that, you&amp;rsquo;ll get it all without any extra effort.&lt;/p&gt;
+&lt;h2 id=&#34;local-version-control-systems&#34;&gt;Local version control systems&lt;/h2&gt;
+&lt;p&gt;Many people use copying files to a separate directory (perhaps even a time-stamped directory if they are smart enough) as a version control method. This approach is very common because of its simplicity, but it is incredibly prone to errors. You can easily forget which directory you are in and accidentally change the wrong file or copy the wrong files.&lt;/p&gt;
+&lt;p&gt;In order to solve this problem, programmers long ago developed local VCS with a simple database that stores records of all changes in files, thereby controlling audits.&lt;/p&gt;
+&lt;p&gt;One of the popular SCR was the RCS system, which is still distributed today with many computers. RCS stores sets of patches (differences between files) on disk in a special format, using which it can recreate the state of each file at a given point in time.&lt;/p&gt;
+&lt;h2 id=&#34;centralized-version-control-systems&#34;&gt;Centralized version control systems&lt;/h2&gt;
+&lt;p&gt;The next major problem that people face is the need to interact with other developers. In order to deal with it, centralized version control systems (CSCR) were developed. Systems such as CVS, Subversion, and Perforce use a single server containing all versions of files, and a number of clients that retrieve files from this centralized repository. The application of CSCR has been the standard for many years.&lt;/p&gt;
+&lt;p&gt;This approach has many advantages, especially over local SLE. For example, all the developers of the project to some extent know what each of them does. Administrators have full control over who can do what, and it is much easier to administer CSCR than it is to operate on-premises databases on each tenant.&lt;/p&gt;
+&lt;p&gt;Despite this, this approach also has serious drawbacks. The most obvious disadvantage is a single point of failure, represented by a centralized server. If this server goes down for an hour, then during this time no one will be able to use version control to save the changes they are working on, nor will anyone be able to share these changes with other developers. If the hard disk on which the central database is stored is damaged, and there are no timely backups, you will lose everything - the entire history of the project, except for single snapshots of the repository that were saved on the local machines of the developers. Local SLE suffers from the same problem: when the entire history of the project is stored in one place, you risk losing everything.&lt;/p&gt;
+&lt;h2 id=&#34;distributed-version-control-systems&#34;&gt;Distributed version control systems&lt;/h2&gt;
+&lt;p&gt;This is where distributed version control systems (RSKV) come into play. In RSCV (such as Git, Mercurial, Bazaar, or Darcs), clients don&amp;rsquo;t just download a snapshot of all files (the state of files at a specific point in time) — they copy the repository entirely. In this case, if one of the servers through which the developers exchanged data dies, any client repository can be copied to another server to continue. Each copy of the repository is a complete backup of all data.&lt;/p&gt;
+&lt;p&gt;Moreover, many RSCs can interact with multiple remote repositories at the same time, so you can work with different groups of people using different approaches at the same time within the same project. This allows you to apply several approaches at once in the development, for example, hierarchical models, which is completely impossible in centralized systems.&lt;/p&gt;
+&lt;h2 id=&#34;resource&#34;&gt;Resource&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://git-scm.com/book/ru/v2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://git-scm.com/book/ru/v2/&lt;/a&gt;Введение-О-системе-контроля-версий&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
@@ -196,7 +251,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-346295178&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-578193624&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -206,7 +261,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-346295178&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-578193624&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
