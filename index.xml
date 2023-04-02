@@ -34,6 +34,105 @@
     
     <item>
       <title>How was my last week</title>
+      <link>https://example.com/post/2-post/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2-post/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Here&amp;rsquo;s what I did last week&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;I passed 1 labs: operating systems&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wrote second math analysis test&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Worked about 50 hours&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Went to training 4 times&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Finished reading a new book about finance&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Learned cooking with my bf&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;about-the-markdown&#34;&gt;About the Markdown&lt;/h2&gt;
+&lt;p&gt;Markdown is a readable markup language that is transparently converted to HTML. You can open and edit it in any text editor. It is widely used for writing documentation and README files.&lt;/p&gt;
+&lt;h2 id=&#34;syntax-paragraph&#34;&gt;Syntax. Paragraph&lt;/h2&gt;
+&lt;p&gt;A paragraph is one or more consecutive lines of text separated by one or more empty lines. If a string contains only spaces or tabs, it is still considered empty.&lt;/p&gt;
+&lt;p&gt;Consecutive lines will be glued into one, if you do not add a hard transfer. There are several ways to do this:&lt;/p&gt;
+&lt;p&gt;add two (or more) spaces at the end of &amp;lt; &amp;gt;&amp;lt; &amp;gt;;
+add a backslash at the end of the line ;
+add an HTML line wrap tag &lt;br&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
+&lt;p&gt;Markdown offers two styles of writing headings: through lattices (#) and through underscores (====). You can use up to six levels of headings, but underscores only allow you to create the first two (&lt;h1&gt; and &lt;h2&gt;).&lt;/p&gt;
+&lt;p&gt;🤓
+In English-language sources, the terms Atx-style (for lattices) and Setext-style (for underscores) are used to indicate the styles of writing headings.&lt;/p&gt;
+&lt;h2 id=&#34;grilles&#34;&gt;Grilles&lt;/h2&gt;
+&lt;p&gt;Grilles (Atx-style) Copy the link to the section &amp;ldquo;Lattices (Atx-style)&amp;rdquo;
+In order to select the title, you need to put from 1 to 6 bars (#) and a space at the very beginning of the line. The level of the header depends only on the number of lattices.&lt;/p&gt;
+&lt;h2 id=&#34;underscores-setext-style&#34;&gt;Underscores (Setext-style)&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Underlining&amp;rdquo; a paragraph with equal signs (=) or hyphens (-) makes it the title of the first or second level, respectively. The level of the header depends only on the type of &amp;ldquo;dashes&amp;rdquo;, their number does not matter.&lt;/p&gt;
+&lt;p&gt;There should be no empty lines between the text and the underline.&lt;/p&gt;
+&lt;h2 id=&#34;lists-marked&#34;&gt;Lists. Marked&lt;/h2&gt;
+&lt;p&gt;To create bulleted (unnumbered) lists, you need to put a minus (-), plus (+) or an asterisk (*) before each item. The marker and the text of the paragraph must be separated by a space. If there are different markers in front of the items in a row, then after the conversion we will get different lists.&lt;/p&gt;
+&lt;h2 id=&#34;ordered&#34;&gt;Ordered&lt;/h2&gt;
+&lt;p&gt;If we use numbers with a dot at the end (1., 2., etc.) as markers, we will get an ordered (numbered) list. The item numbers in the final markup will go in order (1, 2, 3), even if markdown will be 1., 4., 9.. This feature allows us to use &amp;ldquo;lazy numbering&amp;rdquo;, when the same number is placed before each item. The number before the first item shows where to start numbering the list items, so if you put 99., 22. in Markdown, then in the final markup the items will be under the numbers 99, 100, 101. 1.&lt;/p&gt;
+&lt;h2 id=&#34;nesting&#34;&gt;Nesting&lt;/h2&gt;
+&lt;p&gt;Any lists can be nested within each other, for this you need to put a tab or several spaces in front of the marker.
+The number of spaces you need to use to nest one list within another can vary. It depends on the number of characters in the parent marker (L):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;— 1 character (L = 1)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;— 2 characters (L = 2)&lt;/li&gt;
+&lt;li&gt;— 3 characters (L = 3)
+Before the nested list, you need to put from L + 1 to L + 4 spaces.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;quotes&#34;&gt;Quotes&lt;/h2&gt;
+&lt;p&gt;If you put a triangular bracket (&amp;gt;) at &amp;gt; the line, Markdown will turn the text after it into a quote. Inside can be any blocks: paragraphs, headlines or even other quotes.&lt;/p&gt;
+&lt;h2 id=&#34;source-code&#34;&gt;Source code&lt;/h2&gt;
+&lt;p&gt;Markdown allows you to mark up the source code in a special way, all characters inside will be automatically escaped. There are 3 ways how this can be done:&lt;/p&gt;
+&lt;p&gt;Wrap the code with one or two pairs of backsticks (&lt;code&gt;код&lt;/code&gt;)
+Wrap the code with three or more pairs of backsticks (&lt;code&gt;код&lt;/code&gt;)
+Put a tab or 4 spaces before each line of code&lt;/p&gt;
+&lt;h2 id=&#34;one-or-two-pairs-of-backsticks&#34;&gt;One or two pairs of backsticks&lt;/h2&gt;
+&lt;p&gt;This method allows you to insert the source code as a lowercase element. Even if we actually have a few lines of code wrapped in backsticks, we will still get one line after converting to HTML.&lt;/p&gt;
+&lt;h2 id=&#34;three-or-more-pairs-of-backsticks&#34;&gt;Three or more pairs of backsticks&lt;/h2&gt;
+&lt;p&gt;If we wrap one line of code with three or more pairs of backsticks, we get a lowercase element, and if there are several lines, then a block element. The second option allows you to specify the programming language that we use, for this we need to write it immediately after the opening backsticks.&lt;/p&gt;
+&lt;p&gt;After designating the programming language, nothing will change visually, but this will allow additional plug-ins and scripts to highlight the code inside the block.&lt;/p&gt;
+&lt;h2 id=&#34;indentation&#34;&gt;Indentation&lt;/h2&gt;
+&lt;p&gt;Another way to highlight the code is to put a tab or 4 spaces in front of it. The source code must be separated by an empty line from the previous block.&lt;/p&gt;
+&lt;h2 id=&#34;select-text&#34;&gt;Select text&lt;/h2&gt;
+&lt;p&gt;If you wrap text with asterisks (*) or underscores (_), it becomes bold or italic. Both characters work the same way, the selection style depends only on their number:&lt;/p&gt;
+&lt;p&gt;one pair * or _ will make the text &lt;em&gt;italic&lt;/em&gt;;
+two * or _ will make the text &lt;strong&gt;bold&lt;/strong&gt;;
+three * or _ will apply both styles***.&lt;/p&gt;
+&lt;p&gt;To escape markdown service characters, you need to put a backslash before each of them (*, _, **).&lt;/p&gt;
+&lt;h2 id=&#34;standardization&#34;&gt;Standardization&lt;/h2&gt;
+&lt;p&gt;Markdown has an original specification from one of the language&amp;rsquo;s creators, John Gruber. Unfortunately, it doesn&amp;rsquo;t always unambiguously describe the syntax, which is why many Markdown converters work differently. To remedy this situation, a group of &amp;ldquo;Markdown fans&amp;rdquo; created CommonMark, a specification that describes many special cases, and a reference implementation of the Markdown parser on JS.&lt;/p&gt;
+&lt;h2 id=&#34;resource&#34;&gt;Resource&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://doka.guide/tools/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doka.guide/tools/markdown/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How was my last week</title>
       <link>https://example.com/post/1-post/</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/1-post/</guid>
@@ -271,7 +370,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-578193624&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-594172836&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -281,7 +380,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-578193624&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-594172836&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
