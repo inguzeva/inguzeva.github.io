@@ -34,6 +34,87 @@
     
     <item>
       <title>How was my last week</title>
+      <link>https://example.com/post/4-post/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/4-post/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Here&amp;rsquo;s what I did last week&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;I passed a lab: operating systems&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wrote two English tests&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Worked about 50 hours&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Went to training 2 times&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Celebrated may weekends&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://example.com/project/example/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/</guid>
+      <description>&lt;p&gt;Creating of different programs in Python.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Science programming languages</title>
+      <link>https://example.com/post/science-programming-languages/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/science-programming-languages/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;p&gt;Today, there are hundreds of programming languages in the world - how to choose the most suitable one for learning among them?&lt;/p&gt;
+&lt;h2 id=&#34;bash&#34;&gt;Bash&lt;/h2&gt;
+&lt;p&gt;The Unix shell scripts, created by Ken Thompson in the early 1970s, are closely related to the C programming language. Bash, an updated Unix shell, was first released in the late 80s and is still under active development today. Bash is usually used to write server configuration scripts, so it&amp;rsquo;s a good choice for today&amp;rsquo;s cloud environments with container storage and microservices. Shell scripts are used quite often, so knowledge of this language will come in handy.&lt;/p&gt;
+&lt;p&gt;Also worth paying attention to is zsh, which is currently the default shell in macOS.&lt;/p&gt;
+&lt;h2 id=&#34;cobol&#34;&gt;COBOL&lt;/h2&gt;
+&lt;p&gt;One of the oldest languages still in use today was created by Grace Hopper in the late 1950s and was intended to standardize the development of large-scale business applications on computers. A brilliant concept that is still applied in cross-platform SDKs. An incredible 95% of ATM transactions go through COBOL systems, with many of these devices running around the clock 365 days a year. Device vendors such as IBM are developing more powerful machines designed for COBOL, but continue to maintain and update existing systems due to the costs and risks associated with replacing them. COBOL isn&amp;rsquo;t going anywhere anytime soon. This is a good choice for those who want to work with clients from the financial sector.&lt;/p&gt;
+&lt;h2 id=&#34;cc&#34;&gt;C/C++&lt;/h2&gt;
+&lt;p&gt;These languages often occupy the top of various ratings - they are valued for their power and speed. C was created in the early 1970s by Dennis Ritchie, C++ was developed in 1985 by Björn Stroustrup. Today, these two languages are at the heart of everything from the OS and games to modern scientific computing and machine learning. C and C++ are well-suited for demanding applications that value low-level hardware access and performance. Mastering these languages takes time and effort.&lt;/p&gt;
+&lt;h2 id=&#34;c&#34;&gt;C&lt;/h2&gt;
+&lt;p&gt;C#, released by Microsoft in 2000, was developed by Anders Hejlsberg as a cross-platform object-oriented programming language. It is now often used to develop business applications, APIs, games, and more. Due to its wide range of functions, this language is suitable for working with graphics and other asynchronous programming tasks.&lt;/p&gt;
+&lt;h2 id=&#34;dart&#34;&gt;Dart&lt;/h2&gt;
+&lt;p&gt;A modern language developed by Google for creating mobile, desktop, web and server applications. Its creator Lars Bak also came up with the JavaSript Engine V8. Dart resembles other modern object-oriented programming languages—C#, TypeScript, and Java—and provides a rich set of features suitable for defining complex interactions, asynchronous operations, animations, and other tasks.&lt;/p&gt;
+&lt;h2 id=&#34;fortran&#34;&gt;Fortran&lt;/h2&gt;
+&lt;p&gt;Fortran, developed at IBM in the 1950s by John Backus, is a general-purpose language that was created for scientific and engineering work. It is still widely used for these purposes, including for test testing of the fastest supercomputers in the world. It has also been used in space and physics research and weather modeling.&lt;/p&gt;
+&lt;h2 id=&#34;java&#34;&gt;Java&lt;/h2&gt;
+&lt;p&gt;Java is a general-purpose OOP language developed in the 1990s by James Gosling at Sun (now owned by Oracle) and designed to be compiled into bytecode to run on the Java Virtual Machine. By 2020, these include almost all kinds of devices – from TVs and game consoles to servers, phones, and even kitchen appliances. The language is widely spoken in corporations and universities, which has made it popular among both novice programmers and experienced developers.&lt;/p&gt;
+&lt;h2 id=&#34;javascript&#34;&gt;JavaScript&lt;/h2&gt;
+&lt;p&gt;JavaScript was developed by Brandon Eich in the 1990s to add script execution to websites. Today, it is a universal web interface language with powerful standardized features that are supported by all major browsers. JavaScript conforms to the EcmaScript standard, which is updated every few years with the addition of new language specifications. In addition, JavaScript is often used to develop back-end services and APIs, mobile applications, games, and other software. It&amp;rsquo;s a great choice to learn and further improve.&lt;/p&gt;
+&lt;h2 id=&#34;julia&#34;&gt;Julia&lt;/h2&gt;
+&lt;p&gt;A modern, high-level language designed for high-performance numerical processing and statistical analysis. Julia was developed in 2009 by Jeff Besanson, Stefan Karpinski, Viral B. Shah and Alan Edelman. It is one of the four languages that allow you to achieve petaflops-level supercomputer performance (along with C, C++ and Fortran). It is popular in universities, governments, and financial institutions.&lt;/p&gt;
+&lt;h2 id=&#34;kotlin&#34;&gt;Kotlin&lt;/h2&gt;
+&lt;p&gt;Designed for interoperability with Java, Kotlin is equipped with functional programming capabilities and OOP features, including working with lambda expressions, operator overloading, and so on. In 2019, Google named Kotlin the preferred language for Android development, so it&amp;rsquo;s definitely worth exploring for those who plan to create Android apps and plugins for popular SDKs.&lt;/p&gt;
+&lt;h2 id=&#34;lisp&#34;&gt;Lisp&lt;/h2&gt;
+&lt;p&gt;Lisp is a group of languages related to the historical implementation of LISP that was developed at MIT in the 1950s to describe programs in a mathematical way. The syntax in Lisp is based on s-expressions, which distinguishes it from most other languages, many of which are related to or influenced by C. Lisp was popular in early AI research and was widely used as a scripting language for CAD and other engineering applications, as it perceives code as data and allows you to customize the language using macros, which distinguishes it from more static languages. Among the well-known applications based on it are AutoLisp (a script for AutoCad) and Roomba. One of the languages of the family, Clojure, is especially useful for creating large-scale applications for business and the Internet.&lt;/p&gt;
+&lt;h2 id=&#34;lua&#34;&gt;Lua&lt;/h2&gt;
+&lt;p&gt;Lua was developed in 1993 by Roberto Ieruzalimski to be embedded in other applications. It is now widely used as a scripting language to add new features to programs. For example, it can be used to supplement the description of game logic in the development of video games or expand the set of user functions in graphics applications.&lt;/p&gt;
+&lt;h2 id=&#34;powershell&#34;&gt;PowerShell&lt;/h2&gt;
+&lt;p&gt;PowerShell was developed by Microsoft in 2006 to provide Unix-like command-line interface functions in Windows. It was later released as open source and ported to macOS, CentOS, and Ubuntu. PowerShell is widely used in systems that use Windows Server and other Microsoft technologies: it makes administration easier and reduces maintenance costs.&lt;/p&gt;
+&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
+&lt;p&gt;Python, introduced in 1991 by Guido van Rossum, was conceived as a well-readable language with OOP functions, involving the use of functional paradigms to build clean and well-organized programs. Python is supported by major platforms and is used in a wide variety of fields, including science, data mining, artificial intelligence development, computer graphics for feature films, cloud computing, game development, and many others. Python is well-established and will remain one of the most sought-after tools for a long time to come.&lt;/p&gt;
+&lt;h2 id=&#34;resource&#34;&gt;Resource&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://rb.ru/story/20-code-languages-to-learn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://rb.ru/story/20-code-languages-to-learn/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How was my last week</title>
       <link>https://example.com/post/3-post/</link>
       <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/3-post/</guid>
@@ -453,7 +534,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-715983246&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-238691745&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -463,7 +544,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-715983246&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-238691745&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -938,19 +1019,6 @@ $$&lt;/p&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     
